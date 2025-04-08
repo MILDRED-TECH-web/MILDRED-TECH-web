@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**MILDRED-TECH-web/MILDRED-TECH-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a school project...
-- 🌱 I’m currently learning programming languages...
-- 👯 I’m looking to collaborate on projects...
-- 🤔 I’m looking for help with designs...
-- 💬 Ask me about ...
-- 📫 How to reach me: wanjirumildred63@gmail.com ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My name
+Mildred Wanjiru
+## My country
+Kenya
+## Career
+Designer and Frontend
+## Passion
+Ambition to learn more,currentry learning  more about latest programming languages
+## Collaboration
+Ready to collaborate whith anyone especially on designs
+## Contact
+wanjirumildred63@gmail.com
